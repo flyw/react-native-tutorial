@@ -3,6 +3,32 @@
 
 * Standard compliant React Native App Utilizing [Ignite](https://github.com/infinitered/ignite)
 
+# WIKI 目录：
+
+[Prerequirement](https://github.com/flyw/react-native-tutorial/wiki/Prerequirement)
+
+[安装](https://github.com/flyw/react-native-tutorial/wiki/Startup)
+
+[ES5 => ES6](https://github.com/flyw/react-native-tutorial/wiki/From-ES5-To-ES6)
+
+[ignite 模版](https://github.com/flyw/react-native-tutorial/wiki/ignite-Boilerplate)
+
+[组件](https://github.com/flyw/react-native-tutorial/wiki/Components)
+
+[生命周期](https://github.com/flyw/react-native-tutorial/wiki/Life-cycle)
+
+[样式](https://github.com/flyw/react-native-tutorial/wiki/Styles)
+
+[NativeBase](https://github.com/flyw/react-native-tutorial/wiki/NativeBase)
+
+[图标](https://github.com/flyw/react-native-tutorial/wiki/react-native-vector-icons)
+
+[React Navigation](https://github.com/flyw/react-native-tutorial/wiki/React%20Navigation)
+
+[Props And State](https://github.com/flyw/react-native-tutorial/wiki/props-and-state)
+
+[Redux](https://github.com/flyw/react-native-tutorial/wiki/Redux)
+
 ## :arrow_up: How to Setup
 
 **Step 1:** git clone this repo:
